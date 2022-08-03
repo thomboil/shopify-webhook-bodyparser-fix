@@ -36,6 +36,9 @@ It will then use bodyParser.raw() for the specified webhook routes.
 ##Useful links
 
 https://expressjs.com/en/resources/middleware/body-parser.html
+
 https://lorenzosfarra.com/2019/02/19/node-body-parser-and-shopify-webhooks-verification/
+
 https://medium.com/@scottdixon/verifying-shopify-webhooks-with-nodejs-express-ac7845c9e40a
+
 https://stackoverflow.com/questions/56145563/getting-exception-on-webhook-from-stripe#:~:text=It's%20because%20you've%20already,If%20you%20remove%20the%20app.
