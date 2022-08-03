@@ -33,7 +33,8 @@ app.use((req, res, next) => {
 ```
 It will then use bodyParser.raw() for the specified webhook routes.
  
-##References
+##Useful links
+
 https://expressjs.com/en/resources/middleware/body-parser.html
 https://lorenzosfarra.com/2019/02/19/node-body-parser-and-shopify-webhooks-verification/
 https://medium.com/@scottdixon/verifying-shopify-webhooks-with-nodejs-express-ac7845c9e40a
